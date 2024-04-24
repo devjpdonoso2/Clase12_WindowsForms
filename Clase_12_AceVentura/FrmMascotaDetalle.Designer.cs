@@ -84,6 +84,7 @@
             btnDeclararEncontrada.TabIndex = 2;
             btnDeclararEncontrada.Text = "Declarar cómo \"Encontrada\"";
             btnDeclararEncontrada.UseVisualStyleBackColor = true;
+            btnDeclararEncontrada.Click += btnDeclararEncontrada_Click;
             // 
             // btnDeclararEntregada
             // 
@@ -93,6 +94,7 @@
             btnDeclararEntregada.TabIndex = 3;
             btnDeclararEntregada.Text = "Declarar Cómo \"Entregada\"";
             btnDeclararEntregada.UseVisualStyleBackColor = true;
+            btnDeclararEntregada.Click += btnDeclararEntregada_Click;
             // 
             // btnGuardar
             // 

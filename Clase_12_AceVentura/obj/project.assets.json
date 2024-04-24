@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\devjp\\source\\repos\\Clase_12_AceVentura\\Clase_12_AceVentura\\Clase_12_AceVentura.csproj",
+      "projectUniqueName": "C:\\Repositories\\github_2\\Clase12_WindowsForms\\Clase_12_AceVentura\\Clase_12_AceVentura.csproj",
       "projectName": "Clase_12_AceVentura",
-      "projectPath": "C:\\Users\\devjp\\source\\repos\\Clase_12_AceVentura\\Clase_12_AceVentura\\Clase_12_AceVentura.csproj",
+      "projectPath": "C:\\Repositories\\github_2\\Clase12_WindowsForms\\Clase_12_AceVentura\\Clase_12_AceVentura.csproj",
       "packagesPath": "C:\\Users\\devjp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\devjp\\source\\repos\\Clase_12_AceVentura\\Clase_12_AceVentura\\obj\\",
+      "outputPath": "C:\\Repositories\\github_2\\Clase12_WindowsForms\\Clase_12_AceVentura\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

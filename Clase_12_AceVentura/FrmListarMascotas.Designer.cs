@@ -40,12 +40,16 @@
             // lstMascotasPerdidas
             // 
             lstMascotasPerdidas.Columns.AddRange(new ColumnHeader[] { idChip, nombreMascota, nombreDueno, estaEncontrada, estaEntregado });
+            lstMascotasPerdidas.FullRowSelect = true;
+            lstMascotasPerdidas.GridLines = true;
             lstMascotasPerdidas.Location = new Point(12, 78);
+            lstMascotasPerdidas.MultiSelect = false;
             lstMascotasPerdidas.Name = "lstMascotasPerdidas";
             lstMascotasPerdidas.Size = new Size(666, 316);
             lstMascotasPerdidas.TabIndex = 0;
             lstMascotasPerdidas.UseCompatibleStateImageBehavior = false;
             lstMascotasPerdidas.View = View.Details;
+            lstMascotasPerdidas.SelectedIndexChanged += lstMascotasPerdidas_SelectedIndexChanged;
             // 
             // idChip
             // 

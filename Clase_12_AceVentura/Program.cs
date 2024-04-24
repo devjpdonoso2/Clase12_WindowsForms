@@ -3,7 +3,7 @@ namespace Clase_12_AceVentura
     internal static class Program
     {
         /// <summary>
-        ///  The main entry point for the application.
+        /// Este es el punto inicial de mi Proyecto
         /// </summary>
         [STAThread]
         static void Main()

@@ -15,13 +15,13 @@ namespace Clase_12_AceVentura
     {
         private int childFormNumber = 0;
         private Usuario usuarioConectado;
-        private List<IAnimal> listaAnimales;
+        private List<Animal> listaAnimales;
 
         public FrmPrincipal(Usuario usuarioConectado)
         {
             this.usuarioConectado = usuarioConectado;
             this.Text = "Administrador - Usuario: " + usuarioConectado.NombreUsuario;
-            listaAnimales = new List<IAnimal>();
+            listaAnimales = new List<Animal>();
             InitializeComponent();
         }
 
